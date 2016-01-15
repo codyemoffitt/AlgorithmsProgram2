@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=degree
+comment0.target=Polynomial(int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Polynomial\r\n
+comment1.params=fileName
+comment1.target=Polynomial(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Polynomial,\ loads\ the\ polynomial\ from\ a\ file\r\n\ @throws\ FileIOException\r\n
+comment2.params=fileName
+comment2.target=void\ writeFile(java.lang.String)
+comment2.text=\r\n\ Writes\ a\ polynomial\ to\ a\ file\r\n\ @param\ fileName\ The\ name\ of\ the\ file\ to\ create/write\ to\r\n\ @throws\ FileIOException\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ The\ toString\ override\ for\ polynomials\r\n\ @return\ A\ string\ describing\ the\ polynomial\r\n\ \r\n
+comment4.params=
+comment4.target=Complex[]\ getCoefficients()
+comment4.text=\r\n\ Gets\ the\ coefficients\ of\ the\ polynomial\ as\ an\ array\ of\ complex\ numbers\r\n\ @return\ An\ array\ of\ Complex\ numbers\r\n\ \r\n
+comment5.params=
+comment5.target=int\ getDegree()
+comment5.text=\r\n\ Gets\ the\ degree\ of\ this\ polynomial\r\n\ @return\ degree\r\n\ \r\n
+numComments=6

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=timeFileName\ multFileName
+comment0.target=void\ produceGraphs(java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Evaluates\ time\ and\ multiplications\ for\ each\ algorithm\ for\ random\ polys\ of\ size\ n\ at\ nth\ roots\ of\ unity\r\n\ ,\ and\ writes\ a\ .csv\ file\ containing\ them.\r\n\ @param\ timeFileName\ The\ name\ you\ want\ to\ use\ for\ the\ time\ graph\r\n\ @param\ mulFileName\ \ The\ name\ you\ want\ to\ use\ for\ the\ graph\ of\ Complex\ number\ multiplications\r\n\ \r\n\ @author\ Cody\ Moffitt\ \r\n\ @version\ 1.0\r\n
+numComments=1
